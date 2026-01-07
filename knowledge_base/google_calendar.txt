@@ -1,0 +1,50 @@
+
+Wednesday, January 07, 2026
+09:00-10:30 | Lecture: Data Structures (Room 301)
+10:45-12:00 | Lab: Programming Practice (Lab A)
+16:15-18:00 | Team Meeting - Calendar RAG Project (Conference Room)
+
+Thursday, January 08, 2026
+10:00-12:00 | Long Study Session - AI Research (Library)
+13:00-15:00 | Personal Projects - Python Development (Home Office)
+17:00-19:00 | Leisure / Social Time with Friends (Coffee Shop)
+
+Friday, January 09, 2026
+10:00-12:00 | Weekly Planning / Goal Setting (Office)
+12:30-13:30 | Lunch Meeting - Team Sync (Cafe)
+14:00-16:00 | Project Development Sprint (Office)
+
+Saturday, January 10, 2026
+09:00-11:00 | Lecture: Operating Systems (Room 205)
+13:00-15:00 | Catch-up Study / Assignments (Library)
+15:30-17:30 | Weekend Project Work (Home)
+
+Sunday, January 11, 2026
+09:00-10:30 | Lecture: Algorithms (Room 302)
+10:45-12:00 | Lab: Data Science Practice (Lab C)
+16:15-18:00 | Group Study - Algorithm Problems (Study Room)
+
+Monday, January 12, 2026
+09:00-10:30 | Lecture: Project Management (Room 301)
+10:45-12:00 | Lab / Presentation Prep (Lab A)
+15:00-17:00 | Internship Work - Final Deliverables (Office)
+
+Tuesday, January 13, 2026
+10:00-11:15 | Code Review Session (Conference Room)
+11:15-12:30 | Lab / Exercises (Lab B)
+17:00-18:00 | Office Hours with Mentor (Office)
+
+Wednesday, January 14, 2026
+09:00-10:30 | Lecture: Software Engineering (Room 301)
+10:45-12:00 | Lab / Code Review (Lab A)
+15:00-17:00 | Internship Work - Development Tasks (Office)
+
+Thursday, January 15, 2026
+09:30-10:00 | Standup - Team Sync (Conference Room)
+10:00-11:00 | Client Meeting - Requirements Review (Video Call)
+14:00-15:30 | Development Sprint Planning (Office)
+
+Friday, January 16, 2026
+09:00-10:30 | Lecture: Advanced Topics (Room 302)
+11:00-12:00 | Final Project Submission (Office)
+15:00-16:00 | Week Review & Planning (Office)
